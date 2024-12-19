@@ -18,17 +18,16 @@ int main() {
     unsigned long long myUnsignedLongLong = 18446744073709551615ULL; 
 
    
-    char myChar = 'A'; // Ky tu 'A'.
+    char myChar = 'A';
 
    
-    unsigned char myUnsignedChar = 255; // Gia tri toi da cua unsigned char.
+    unsigned char myUnsignedChar = 255; 
 
 
-    float myFloat = 3.14159; // Gia tri gan dung cua pi.
+    float myFloat = 3.14159; 
 
    
-    double myDouble = 2.718281828459045; // Gia tri cua hang so e.
-
+    double myDouble = 2.718281828459045;
     printf("short: %d\n", myShort);
     printf("unsigned short: %u\n", myUnsignedShort);
     printf("int: %d\n", myInt);
