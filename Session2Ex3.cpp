@@ -1,19 +1,19 @@
 #include <stdio.h>
 int main(){
-	//Khai bao va khoi tao so nguye
-	int num1 = 10;//So nguyen thu nhat
-	int num2 = 20;//So nguyen thu hai
+
+	int num1 = 10;
+	int num2 = 20;
 	
-	// Tong hai so nguyen la
+	
 	int sum = num1 + num2;
 	
-	//Hieu 2 so nguyen la 
+	
 	int difference = num1 - num2;
 	
-	//Tich 2 so nguyen la
+
 	int product = num1 * num2;
 	
-	//Thuong 2 so ngiuen la
+
 	int quotient =(float)num1 / num2;
 	
 	//ket qua 2 so la 
